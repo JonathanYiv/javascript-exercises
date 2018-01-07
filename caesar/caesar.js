@@ -1,4 +1,4 @@
-var caesar = function() {
+var caesar = function(str, shift) {
 
 }
 
